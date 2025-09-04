@@ -1,1 +1,1 @@
-console.log("Danas je ruzan dan");
+console.log("Danas je dan");
